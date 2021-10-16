@@ -276,6 +276,9 @@ font {
   .content {
     transform: translateY(15%);
   }
+  font {
+  padding-bottom: 25px;
+}
 }
 
 /* TERMS */
